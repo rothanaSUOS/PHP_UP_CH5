@@ -36,8 +36,9 @@ include_once ("header.php");
                         </div>
                     </div>
                 <div class="card-footer bg-white mt-4 mb-4">
-                    <button class="btn btn-danger ml-2">Cancel</button>
-                    <button class="btn btn-primary create">Create</button>
+                    <button class="btn btn-danger ml-2">CANCEL</button>
+                    <button class="btn btn-info add-to-list">ADD TO LIST</button>
+                    <button class="btn btn-primary post">POST</button>
                 </div>
             </div>
         </div>
@@ -53,8 +54,8 @@ include_once ("header.php");
         width: 330px;
         height: 200px;
     }
-    .create {
-        margin-left:70%;
+    .add-to-list {
+        margin-left:46%;
     }
     .card{
         border-radius: 5px;

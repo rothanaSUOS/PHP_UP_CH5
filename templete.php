@@ -78,6 +78,6 @@
     }
     .img-template {
         height: 500px;
-        width: 1600px;
+        width: 2000px;
     }
 </style>
